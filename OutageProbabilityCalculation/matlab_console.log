@@ -1,0 +1,12 @@
+---------------Configurations:------------------ 
+ignore_online_nw_characteristics = false
+M_veh = 8
+lambda_niu = 200.000000
+M_eMBB = 4
+M_mMTC = 12
+p_mMTC_tx = 0.750000
+max_mMTC_packet_size = 128
+sim_nr_drops_per_round per round = 100
+sim_nr_round = 20
+------------------------------------------------ 
+start dl network model...
